@@ -22,9 +22,9 @@
     "url": "https://dukkan.hellominaste.com",
     "icon": "https://icons.duckduckgo.com/ip3/dukkan.hellominaste.com.ico",
     "slug": "hello-duekkan",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 990,
     "timeMonth": 1002,
     "timeYear": 965,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-02": 0
+    }
   },
   {
     "name": "Bed & Beyond",

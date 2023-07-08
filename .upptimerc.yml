@@ -13,6 +13,8 @@ sites:
     url: https://seocly.com
   - name: Octo House
     url: https://octo.house
+  - name: Buraste.com
+    url: https://buraste.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

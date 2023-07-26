@@ -40,11 +40,11 @@
     "url": "https://bednbeyond.co",
     "icon": "https://icons.duckduckgo.com/ip3/bednbeyond.co.ico",
     "slug": "bed-and-beyond",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 781,
     "timeDay": 469,
@@ -52,7 +52,7 @@
     "timeMonth": 931,
     "timeYear": 781,
     "dailyMinutesDown": {
-      "2023-07-26": 5
+      "2023-07-26": 0
     }
   },
   {

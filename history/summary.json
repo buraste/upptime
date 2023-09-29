@@ -96,19 +96,19 @@
     "url": "https://buraste.com",
     "icon": "https://icons.duckduckgo.com/ip3/buraste.com.ico",
     "slug": "buraste-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 420,
-    "timeDay": 544,
-    "timeWeek": 459,
-    "timeMonth": 502,
+    "timeDay": 469,
+    "timeWeek": 451,
+    "timeMonth": 499,
     "timeYear": 420,
     "dailyMinutesDown": {
-      "2023-09-29": 0
+      "2023-09-29": 11
     }
   }
 ]

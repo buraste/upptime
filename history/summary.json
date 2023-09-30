@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 299,
-    "timeDay": 304,
-    "timeWeek": 309,
-    "timeMonth": 270,
+    "timeDay": 435,
+    "timeWeek": 351,
+    "timeMonth": 280,
     "timeYear": 299,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 511,
-    "timeDay": 106,
-    "timeWeek": 101,
-    "timeMonth": 81,
-    "timeYear": 511,
+    "time": 509,
+    "timeDay": 152,
+    "timeWeek": 118,
+    "timeMonth": 85,
+    "timeYear": 509,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 757,
-    "timeDay": 920,
+    "time": 754,
+    "timeDay": 218,
     "timeWeek": 365,
-    "timeMonth": 600,
-    "timeYear": 757,
+    "timeMonth": 596,
+    "timeYear": 754,
     "dailyMinutesDown": {
       "2023-07-26": 23
     }
@@ -67,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 207,
-    "timeDay": 176,
-    "timeWeek": 179,
-    "timeMonth": 152,
+    "timeDay": 195,
+    "timeWeek": 189,
+    "timeMonth": 155,
     "timeYear": 207,
     "dailyMinutesDown": {}
   },
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 386,
-    "timeDay": 162,
-    "timeWeek": 360,
-    "timeMonth": 318,
-    "timeYear": 386,
+    "time": 389,
+    "timeDay": 814,
+    "timeWeek": 434,
+    "timeMonth": 339,
+    "timeYear": 389,
     "dailyMinutesDown": {}
   },
   {
@@ -97,18 +97,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/buraste.com.ico",
     "slug": "buraste-com",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 420,
-    "timeDay": 469,
-    "timeWeek": 451,
-    "timeMonth": 499,
-    "timeYear": 420,
-    "dailyMinutesDown": {
-      "2023-09-29": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 424,
+    "timeDay": 597,
+    "timeWeek": 502,
+    "timeMonth": 511,
+    "timeYear": 424,
+    "dailyMinutesDown": {}
   }
 ]

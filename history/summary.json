@@ -48,7 +48,7 @@
     "uptimeYear": "99.99%",
     "time": 749,
     "timeDay": 673,
-    "timeWeek": 642,
+    "timeWeek": 667,
     "timeMonth": 564,
     "timeYear": 749,
     "dailyMinutesDown": {
@@ -78,18 +78,20 @@
     "url": "https://octo.house",
     "icon": "https://icons.duckduckgo.com/ip3/octo.house.ico",
     "slug": "octo-house",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 406,
-    "timeDay": 735,
-    "timeWeek": 811,
-    "timeMonth": 467,
-    "timeYear": 406,
-    "dailyMinutesDown": {}
+    "time": 450,
+    "timeDay": 4228,
+    "timeWeek": 1675,
+    "timeMonth": 701,
+    "timeYear": 450,
+    "dailyMinutesDown": {
+      "2023-10-07": 0
+    }
   },
   {
     "name": "Buraste.com",

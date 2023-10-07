@@ -78,19 +78,19 @@
     "url": "https://octo.house",
     "icon": "https://icons.duckduckgo.com/ip3/octo.house.ico",
     "slug": "octo-house",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 450,
-    "timeDay": 4228,
-    "timeWeek": 1675,
-    "timeMonth": 701,
-    "timeYear": 450,
+    "time": 453,
+    "timeDay": 3136,
+    "timeWeek": 1594,
+    "timeMonth": 709,
+    "timeYear": 453,
     "dailyMinutesDown": {
-      "2023-10-07": 0
+      "2023-10-07": 6
     }
   },
   {

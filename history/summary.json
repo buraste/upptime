@@ -22,19 +22,19 @@
     "url": "https://hellominaste.com/tr/magaza/",
     "icon": "https://icons.duckduckgo.com/ip3/hellominaste.com.ico",
     "slug": "hello-duekkan",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 456,
-    "timeDay": 37,
-    "timeWeek": 73,
-    "timeMonth": 83,
-    "timeYear": 456,
+    "time": 464,
+    "timeDay": 652,
+    "timeWeek": 274,
+    "timeMonth": 139,
+    "timeYear": 464,
     "dailyMinutesDown": {
-      "2023-10-21": 0
+      "2023-10-21": 6
     }
   },
   {

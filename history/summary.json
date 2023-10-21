@@ -22,18 +22,20 @@
     "url": "https://hellominaste.com/tr/magaza/",
     "icon": "https://icons.duckduckgo.com/ip3/hellominaste.com.ico",
     "slug": "hello-duekkan",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 459,
-    "timeDay": 29,
-    "timeWeek": 77,
-    "timeMonth": 84,
-    "timeYear": 459,
-    "dailyMinutesDown": {}
+    "time": 456,
+    "timeDay": 37,
+    "timeWeek": 73,
+    "timeMonth": 83,
+    "timeYear": 456,
+    "dailyMinutesDown": {
+      "2023-10-21": 0
+    }
   },
   {
     "name": "Bed & Beyond",

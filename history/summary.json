@@ -87,7 +87,7 @@
     "time": 491,
     "timeDay": 910,
     "timeWeek": 763,
-    "timeMonth": 919,
+    "timeMonth": 699,
     "timeYear": 491,
     "dailyMinutesDown": {}
   },
@@ -96,17 +96,19 @@
     "url": "https://buraste.com",
     "icon": "https://icons.duckduckgo.com/ip3/buraste.com.ico",
     "slug": "buraste-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 765,
-    "timeDay": 1713,
-    "timeWeek": 1642,
-    "timeMonth": 1657,
-    "timeYear": 765,
-    "dailyMinutesDown": {}
+    "time": 760,
+    "timeDay": 947,
+    "timeWeek": 1495,
+    "timeMonth": 1613,
+    "timeYear": 760,
+    "dailyMinutesDown": {
+      "2023-11-07": 0
+    }
   }
 ]

@@ -4,9 +4,9 @@
     "url": "https://hellominaste.com",
     "icon": "https://icons.duckduckgo.com/ip3/hellominaste.com.ico",
     "slug": "hello-minaste",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 210,
     "timeMonth": 245,
     "timeYear": 289,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-10": 0
+    }
   },
   {
     "name": "Hello Dükkan",
     "url": "https://hellominaste.com/tr/magaza/",
     "icon": "https://icons.duckduckgo.com/ip3/hellominaste.com.ico",
     "slug": "hello-duekkan",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 79,
     "timeMonth": 137,
     "timeYear": 428,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-10": 0
+    }
   },
   {
     "name": "Bed & Beyond",

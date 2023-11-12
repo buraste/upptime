@@ -26,12 +26,12 @@
     "slug": "hello-duekkan",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "96.79%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.10%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.97%",
     "time": 446,
-    "timeDay": 1311,
+    "timeDay": 105,
     "timeWeek": 647,
     "timeMonth": 290,
     "timeYear": 446,
@@ -103,17 +103,15 @@
     "slug": "buraste-com",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 813,
     "timeDay": 1473,
     "timeWeek": 1535,
     "timeMonth": 1633,
     "timeYear": 813,
-    "dailyMinutesDown": {
-      "2023-11-11": 6
-    }
+    "dailyMinutesDown": {}
   }
 ]

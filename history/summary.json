@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 336,
-    "timeDay": 204,
-    "timeWeek": 684,
-    "timeMonth": 370,
-    "timeYear": 336,
+    "time": 335,
+    "timeDay": 103,
+    "timeWeek": 559,
+    "timeMonth": 371,
+    "timeYear": 335,
     "dailyMinutesDown": {
       "2023-11-10": 44
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 492,
-    "timeDay": 166,
-    "timeWeek": 1613,
-    "timeMonth": 704,
-    "timeYear": 492,
+    "time": 490,
+    "timeDay": 63,
+    "timeWeek": 1294,
+    "timeMonth": 705,
+    "timeYear": 490,
     "dailyMinutesDown": {
       "2023-11-12": 26,
       "2023-11-11": 45,
@@ -53,9 +53,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 710,
-    "timeDay": 899,
-    "timeWeek": 729,
-    "timeMonth": 714,
+    "timeDay": 593,
+    "timeWeek": 735,
+    "timeMonth": 717,
     "timeYear": 710,
     "dailyMinutesDown": {
       "2023-07-26": 23
@@ -72,11 +72,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 352,
-    "timeDay": 940,
-    "timeWeek": 749,
+    "time": 353,
+    "timeDay": 629,
+    "timeWeek": 757,
     "timeMonth": 926,
-    "timeYear": 352,
+    "timeYear": 353,
     "dailyMinutesDown": {}
   },
   {
@@ -91,9 +91,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 550,
-    "timeDay": 870,
-    "timeWeek": 763,
-    "timeMonth": 740,
+    "timeDay": 753,
+    "timeWeek": 757,
+    "timeMonth": 745,
     "timeYear": 550,
     "dailyMinutesDown": {}
   },
@@ -108,11 +108,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 784,
-    "timeDay": 669,
-    "timeWeek": 597,
-    "timeMonth": 594,
-    "timeYear": 784,
+    "time": 786,
+    "timeDay": 1053,
+    "timeWeek": 684,
+    "timeMonth": 612,
+    "timeYear": 786,
     "dailyMinutesDown": {}
   }
 ]

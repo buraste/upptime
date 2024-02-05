@@ -66,18 +66,20 @@
     "url": "https://seocly.com",
     "icon": "https://icons.duckduckgo.com/ip3/seocly.com.ico",
     "slug": "seocly",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 351,
-    "timeDay": 174,
-    "timeWeek": 150,
-    "timeMonth": 477,
+    "timeDay": 226,
+    "timeWeek": 166,
+    "timeMonth": 471,
     "timeYear": 351,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-05": 0
+    }
   },
   {
     "name": "Octo House",
